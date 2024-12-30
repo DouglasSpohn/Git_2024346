@@ -14,14 +14,9 @@ public class Git_2024346 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-    
-    
-    
-    
-    
-    
-    
+        
+        System.out.println("Douglas Spohn - 2024346"); 
+        
     }
     
 }
